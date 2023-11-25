@@ -5,7 +5,7 @@
 
 ## Overview
 
-A mobile-friendly personal portfolio website to showcase my skills, projects, and experiences. This repository contains the source code for my personal portfolio website. The website serves as a showcase of my skills, projects, and experiences.
+Elegantly designed portfolio for both desktop and mobile, featuring my skills and projects. Explore the source code repository to delve into my experiences.
 
 ## Table of Contents 📋
 
