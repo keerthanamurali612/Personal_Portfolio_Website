@@ -1,14 +1,36 @@
-# Personal_Portfolio_Website
-Responsive website using Html , Css ,Javascript.
+# Personal_Portfolio_Website 🌟
 
-<<<<<<< HEAD
-<h1>Desktop navigation</h1>
-<li> about</li>
-<li> experience</li>
-<li> projects</li>
-<li> contact</li>
 
-<h1>hamburger</h1>
-=======
-<h1> Coming soon....</h1>
->>>>>>> 876498c6864bf7dbb82149bc3429a7685c796a1f
+
+
+## Overview
+
+A mobile-friendly personal portfolio website to showcase my skills, projects, and experiences. This repository contains the source code for my personal portfolio website. The website serves as a showcase of my skills, projects, and experiences.
+
+## Table of Contents 📋
+
+- [About](#about)
+- [Experience](#experience)
+- [Projects](#projects)
+- [Contacts](#contacts)
+
+
+## Features ✨
+
+- Responsive design for seamless mobile viewing
+- Portfolio section to display projects
+- Skills section to showcase my expertise
+- Contact form for easy communication
+
+## Screenshots
+![1](https://github.com/keerthanamurali612/Personal_Portfolio_Website/assets/68218079/2a75e5a2-ea9b-4730-8392-a8ad660e6802)
+
+![8](https://github.com/keerthanamurali612/Personal_Portfolio_Website/assets/68218079/708ee537-984e-4999-9fdc-d91b8668e765)
+
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+
